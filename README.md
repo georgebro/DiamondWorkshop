@@ -1,2 +1,2 @@
-# Spring-Diamond-Workshop
-Spring Framework / JAVA project / Diamond Workshop
+# Spring boot Framework 
+# JAVA project 
