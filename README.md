@@ -1,2 +1,3 @@
 # Spring boot Framework 
-# JAVA project 
+# JAVA CORE 
+JB school project 
