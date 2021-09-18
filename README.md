@@ -1,3 +1,3 @@
-# JAVA CORE project
+# JAVA CORE 
 # Spring boot Framework 
-# John Brice school  
+# John Brice school project
