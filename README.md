@@ -1,2 +1,2 @@
-# Java Spring boot framework 
-# John Brice school project
+# Java Spring Boot Framework 
+# John Brice School Project
